@@ -19,4 +19,4 @@ We at Harmony and Focus are concerned about you as a whole person, not just your
 
 We understand that your time is valuable. That's why we offer flexible scheduling options and online booking, so you can easily book your appointments and get on the path to better health.
 
-So why wait? Invest in your well-being today and start your journey to optimal health and wellness. Book your appointment now and discover the many benefits of Harmony and Focus Wellness Center.
+So why wait? Invest in your well-being today and start your journey to optimal health and wellness. [Book](https://squareup.com/appointments/book/acq5miwwohs0c2/D6Z4V4D70S7S4/start){:target="_blank"} your appointment now and discover the many benefits of Harmony and Focus Wellness Center.
