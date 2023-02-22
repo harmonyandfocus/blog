@@ -1,8 +1,10 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
+title: Welcome
+date: 2023-02-22 08:00:00 -5
+categories: [welcome, overview]
+tags: [welcome, philosoophy]     # TAG names should always be lowercase
 ---
+
 
 Welcome to Harmony & Focus, your ultimate destination for physical and mental well-being. Our center is dedicated to providing a welcoming and supportive environment where we can help you focus on your health, improve your wellness and quality of life. Rather than focusing on disease, our mission is to help you achieve optimal wellness through a range of holistic services and treatments.
 
@@ -15,19 +17,3 @@ We at Harmony and Focus are concerned about you as a whole person, not just your
 We understand that your time is valuable. That's why we offer flexible scheduling options and online booking, so you can easily book your appointments and get on the path to better health.
 
 So why wait? Invest in your well-being today and start your journey to optimal health and wellness. Book your appointment now and discover the many benefits of Harmony and Focus Wellness Center.
-
-# About Dr. Jonathan Holt
-
-![Dr. Jonathan Holt](/assets/jon.png){: width="300" height="600" }{: .left }
-
-Jonathan Holt, DO, MS is a triple board-certified osteopathic physician with over 20 years of experience.
-
-He is board-certified in: Internal Medicine, Clinical Genetics & Preventive Medicine - Clinical Informatics.
-
-He started his training in a traditional osteopathic rotating internship at Saint Vincents Hosptial in Worcester, MA then completed his residency in Internal Medicine at Kaiser Foundation Hospical in San Francisco, CA followed by a fellowship in Clinical Genetics in a combined program betwen the University of California at San Francisco and Stanford University Medical Center. He was then selected for a National Library of Medicine sponsored Post-Doctoral Fellow in Biomedical Informatics at Vanderbilt University Medical Center completeing a Masters of Science degree.
-
-He has been on faculty at world-renowned academeic instutations. He was a Primary Care Provider and Hospitalist at Stanford Univerity Hosptial and Clinics, a Clinical Geneticist at Kaiser Permanente Medical Center in San Franciso and the Division of Genetic Medicine at Vanderblit University Medical Center in Nashville, TN.
-
-He has been involved with cutting-edge activities including novel approaches to DNA sequencing and as been on the board of nurmerous companies including as an Advisor to the Americal Board of Medical Specialties Database and Information Technology Advisory Committee.
-
-As a proficient software architect he has contributed to network solutions that have touched hundreds of millions of lives.
