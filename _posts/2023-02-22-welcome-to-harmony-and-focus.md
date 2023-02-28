@@ -10,7 +10,7 @@ tags: [welcome, introduction]
 
 # Welcome
 
-{% include embed/youtube.html id='4pzOAKEhZtc' %}
+
 
 Welcome to Harmony and Focus, your ultimate destination for physical and mental well-being. Our center is dedicated to providing a welcoming and supportive environment where we can help you focus on your health, improve your wellness and quality of life. Rather than focusing on disease, our mission is to help you achieve optimal wellness through a range of holistic services and treatments.
 
