@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Welcome to Harmony & Focus, your ultimate destination for physical and mental well-being. Our center is dedicated to providing a welcoming and supportive environment where we can help you focus on your health, improve your wellness and quality of life. Rather than focusing on disease, our mission is to help you achieve optimal wellness through a range of holistic services and treatments.
+Welcome to Harmony & Focus, your ultimate destination for physical and mental well-being. Our clinic is dedicated to providing a welcoming and supportive environment where we can help you focus on your health, improve your wellness and quality of life. Rather than focusing on disease, our mission is to help you achieve optimal wellness through a range of holistic services and treatments.
 
 Healthcare and sick care are two different approaches to managing one's health. Healthcare is focused on prevention, education, and holistic treatment, while sick care is focused on treating illness or disease often after it has already developed. Healthcare is a proactive approach to maintaining good health. It emphasizes lifestyle changes and regular check-ups to prevent disease and promote well-being. This can include preventive measures such as regular exercise, a healthy diet, and regular screening tests to detect any potential health problems early. This often leads to a better sustainable outcome.
 
@@ -14,7 +14,7 @@ We at Harmony and Focus are concerned about you as a whole person, not just your
 
 We understand that your time is valuable. That's why we offer flexible scheduling options and online booking, so you can easily book your appointments and get on the path to better health.
 
-So why wait? Invest in your well-being today and start your journey to optimal health and wellness. Book your appointment now and discover the many benefits of Harmony and Focus Wellness Center.
+So why wait? Invest in your well-being today and start your journey to optimal health and wellness. Book your appointment now and discover the many benefits of Harmony and Focus Wellness Clinic.
 
 # About Dr. Jonathan Holt
 
