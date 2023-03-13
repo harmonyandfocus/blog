@@ -11,6 +11,9 @@ tags: [whole genome sequencing, pharmacogenomics, preventive medicine]
 
 We will explore the exciting world of whole genome sequencing and its potential benefits for health, preventive medicine, and wellness.
 
+{% include embed/youtube.html id='_jqWrwCy8Ls' %}
+
+
 What is Whole Genome Sequencing?
 
 Whole genome sequencing is a cutting-edge technology that allows us to read an individual's entire genetic code. This includes all of the DNA that makes up a person's genes, as well as other DNA sequences that do not code for genes but still play important roles in health and disease. By analyzing an individual's genome, we can gain valuable insights into their unique genetic makeup and how it may impact their health.
