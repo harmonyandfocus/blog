@@ -11,7 +11,7 @@ tags: [whole genome sequencing, pharmacogenomics, preventive medicine]
 
 We will explore the exciting world of whole genome sequencing and its potential benefits for health, preventive medicine, and wellness.
 
-{% include embed/youtube.html id='_jqWrwCy8Ls' %}
+{% include embed/youtube.html id='T-6BxPXZn4M' %}
 
 
 What is Whole Genome Sequencing?
